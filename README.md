@@ -3,6 +3,5 @@ A simple script that will looks at all images in a source directory and move ima
 
 Usage:
 ```
-python copyCat.py C:\Users\Daryl\Downloads\copyCat\images 
-C:\Users\Daryl\Downloads\copyCat\newCatImages2
+python copyCat.py C:\Users\Daryl\Downloads\copyCat\images C:\Users\Daryl\Downloads\copyCat\newCatImages2
 ```
